@@ -1,3 +1,7 @@
+
+// Vídeo demonstração:
+// https://youtu.be/S42p2hVQQuc
+
 #include <Adafruit_SSD1306.h> // biblioteca do display oled
 #define OLED_Address 0x3C 
 Adafruit_SSD1306 oled(128,64); 
